@@ -1,0 +1,18 @@
+{
+  "name": "mi-sitio-web",
+  "version": "1.0.0",
+  "description": "Sitio web para una empresa comercial desarrollado con Node.js y Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Ronaldo Villafuerte",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.0"
+  }
+}
